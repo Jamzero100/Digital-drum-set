@@ -70,7 +70,7 @@ function makeSound(key) {
 
 
 }
-
+// make drums blink
 function makeAnimation(currentKey) {
 
     var activeButton = document.querySelector("." + currentKey)
